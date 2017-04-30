@@ -1,0 +1,14 @@
+
+name: ExaltedMine
+version: 1.0
+author: Surfcash
+main: com.surfcash.exaltedmines.ExaltedMines
+description: Advanced prison mine plugin.
+commands:
+    mine:
+        description: Core plugin command.
+        usage: /<command>
+permissions:
+    exaltedmine:
+        description: Gives access to the plugin.
+        default: op
